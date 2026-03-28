@@ -9,16 +9,16 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Jinews Study Blog`,
+    title: `jinews's Tech Log`,
     author: {
       name: `Jinews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `Full-stack & Geospatial Developer`,
     },
     description: `Jinews' Tech Notes: A collection of my technical studies..`,
     siteUrl: `https://https://jinews.github.io/`,
-    social: {
-      // twitter: `kylemathews`,
-    },
+    // social: {
+    //   // twitter: `kylemathews`,
+    // },
   },
   plugins: [
     `gatsby-plugin-image`,
